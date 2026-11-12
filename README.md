@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá, eu sou o Ian 👋
 
-<!--
-**I-Vicenzo/I-Vicenzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor focado em automações, integrações e bots de WhatsApp.
 
-Here are some ideas to get you started:
+## O que faço
+- Bots de atendimento no WhatsApp
+- Integrações entre sistemas e bancos de dados
+- Automações com IA (LLMs, busca em base de conhecimento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+Python · FastAPI · Java · JavaScript · SQL · Docker
+
+## Destaque
+**[bot-whatsapp-portfolio](https://github.com/I-Vicenzo/bot-whatsapp-portfolio)**
+Assistente virtual de uma clínica fictícia no WhatsApp, com núcleo
+determinístico (regex + máquina de estados) e IA como reserva.
+
+## Em estudo
+Novas linguagens e ferramentas para automação e desenvolvimento de software.
